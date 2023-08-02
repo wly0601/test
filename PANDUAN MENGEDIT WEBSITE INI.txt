@@ -1,0 +1,11 @@
+PANDUAN MENGEDIT WEBSITE INI :
+
+1. Jangan diedit kode yang lain selain kode yang berhubungan dengan data siswa
+2. Edi foto dan keterangan foto seperti CAPTIO, DATA SISWA, 
+3. Edit link untuk FACEBOOK, TWITTER, GOOGLE +, dan INSTAGRAM saja
+4. Pastikan tidak salah menulis kode walaupun kurang atau lebih satu karakter
+5. LETAKKAN FOTO KALIAN DI FOLDER "xia9" dan ubah nama folder itu sesuai kelas kalian masing-masing
+    misal kelas XI MIPA 1 maka ditulis "xia1" dan pastikan foldernya ditulis tanpa spasi
+6. Pastikan foto kalian diberi nama dengan satu kata sajam jangan pakai spasi
+7. untuk link ke FB, TWITTER, GOOGLE+ dan INSTAGRAM pastikan di awali dengan "http://"
+8. Pastikan ukuran gambar/foto yang digunakan sesuai dengan yang sudah saya tulis di keterangan, tidak boleh lebih atau kurang satu pixel pun
